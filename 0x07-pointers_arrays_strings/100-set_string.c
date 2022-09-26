@@ -9,4 +9,8 @@
 void set_string(char **s, char *to)
 {
 	*s = to;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 8e9d40a448afc62fb819d4a65ba585868999c4c8
